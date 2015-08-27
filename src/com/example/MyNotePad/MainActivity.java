@@ -17,7 +17,7 @@ import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-
+	int i = 0;
 	String PASSWD = "666";
 	String DELETE = "754172";
 	EditText passwd = null;
