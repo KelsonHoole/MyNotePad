@@ -22,7 +22,6 @@ public class MainActivity extends Activity {
 
 	String PASSWD = "666";
 	String DELETE = "754172";
-	int i = 0;
 	EditText passwd = null;
 	Button start = null;
 	ToggleButton tb1 = null;
